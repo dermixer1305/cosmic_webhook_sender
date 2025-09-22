@@ -1,0 +1,4 @@
+{
+  "component.cosmic_webhook_sender.send.name": "Send Webhook",
+  "component.cosmic_webhook_sender.send.description": "Sends a message to a webhook"
+}

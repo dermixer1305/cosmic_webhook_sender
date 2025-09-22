@@ -1,0 +1,12 @@
+send:
+  description: "Sendet einen generischen Webhook"
+  fields:
+    url:
+      description: "Ziel-URL des Webhooks"
+      example: "https://discord.com/api/webhooks/..."
+    message:
+      description: "Nachricht, die gesendet wird"
+      example: "Bewegung erkannt!"
+    payload_type:
+      description: "Payload-Typ: discord, json, form, raw"
+      example: "discord"

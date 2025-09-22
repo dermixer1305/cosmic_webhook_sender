@@ -1,0 +1,8 @@
+{
+  "name": "Cosmic Webhook Sender",
+  "content_in_root": false,
+  "domain": "cosmic_webhook_sender",
+  "zip_release": false,
+  "filename": "cosmic_webhook_sender",
+  "render_readme": true
+}
